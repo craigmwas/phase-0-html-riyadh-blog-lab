@@ -1,0 +1,70 @@
+/* style.css */
+
+/* Body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  /* Wrapper */
+.wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Header */
+  header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  header h1 {
+    font-size: 32px;
+    color: #333;
+  }
+  
+  header h2 {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  /* Content */
+  #content {
+    margin-top: 20px;
+  }
+  
+  /* Subheadings */
+  h3 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  /* Paragraphs */
+  p {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.5;
+  }
+  
+  /* Images */
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  /* Sources Section */
+  #sources {
+    margin-top: 20px;
+  }
+  
+  /* Source Links */
+  #sources a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  
+  #sources a:hover {
+    text-decoration: underline;
+  }
